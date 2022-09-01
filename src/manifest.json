@@ -1,0 +1,16 @@
+{
+  "name": "Webring",
+  "version": "1.0",
+  "description": "A modern approach to the classic webring",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "assets/webring.png",
+    "128": "assets/webring.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
